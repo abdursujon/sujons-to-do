@@ -18,7 +18,8 @@ This app focuses on **simplicity, speed, and the features I personally missed** 
 
 ## Preview
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/eebe0b93-69ce-4f80-91d4-5d9ba59373a2" />
+<img width="992" height="1180" alt="image" src="https://github.com/user-attachments/assets/52321c9c-6312-428b-b21e-43301bc750a5" />
+
 
 
 ---
